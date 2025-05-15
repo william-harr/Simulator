@@ -1,0 +1,20 @@
+{
+  "system": {
+    "total_customers_created": 8091,
+    "total_customers_completed": 8090,
+    "average_system_size": 0.7059191251484221,
+    "average_system_time": 0.8725043607848817,
+    "throughput": 0.809,
+    "customers_in_system": 1
+  },
+  "components": {
+    "main_queue": {
+      "total_arrivals": 8091,
+      "total_departures": 8090,
+      "average_size": 0.7059005682761563,
+      "current_size": 1,
+      "average_queue_time": 0.8725043607848817,
+      "utilization": 0.7059005682761563
+    }
+  }
+}
